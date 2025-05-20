@@ -6,11 +6,14 @@ public class GameManager : MonoBehaviour
 
     //screen
     public GameObject title_screen;
-    public  GameObject select_mode_screen;
+    public GameObject select_mode_screen;
     public GameObject select_seq_screen;
     public GameObject study_screen;
 
     GameObject[] screen_list;
+
+    //stage
+    public int cur_stage = 0;
 
     //word
     public TextAsset jsonFile; // Unity Editor에서 JSON 파일을 할당
@@ -19,8 +22,12 @@ public class GameManager : MonoBehaviour
     public int swlIdx = 0;
     public int stage_amount = 1;
 
-    //size 최대 1000 예정
-    public TextAsset[] TA_list;
+    //list in json
+    //public TextAsset[] TA_list;
+
+    //Stage button generator
+    public GameObject StageBtnGenerator;
+    private StageBtnGenerate stbgScript;
 
     //seq button generator
     public GameObject SeqBtnGenerator;
@@ -29,11 +36,15 @@ public class GameManager : MonoBehaviour
     //flag
     public bool study_mode = false;
 
-     private void Awake() {
-        if (Instance == null) {
+    private void Awake()
+    {
+        if (Instance == null)
+        {
             Instance = this;
             // 필요한 경우 DontDestroyOnLoad(this.gameObject);
-        } else {
+        }
+        else
+        {
             Destroy(gameObject);
         }
     }
@@ -41,24 +52,55 @@ public class GameManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        screen_list = new GameObject[]{title_screen, select_mode_screen, select_seq_screen, study_screen};
-        TA_list = new TextAsset[]{jsonFile};
+        screen_list = new GameObject[] { title_screen, select_mode_screen, select_seq_screen, study_screen };
+        //TA_list = new TextAsset[] { jsonFile };
+        stbgScript = StageBtnGenerator.GetComponent<StageBtnGenerate>();
         sbgScript = SeqBtnGenerator.GetComponent<SeqBtnGenerate>();
+        LoadWords();
+        stbgScript.StageBtnGen(wordList.words.Count);
+        sbgScript.InitSeqBtn(wordList.words.Count);
+        deactive_seq_btn();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    public void set_screen(int cur, int go){
+    public void set_screen(int cur, int go)
+    {
         screen_list[cur].SetActive(false);
         screen_list[go].SetActive(true);
     }
 
-    public void set_study_screen(int from_num, int to_num){
-        splittedWordList = new WordList(wordList.words, from_num, to_num);
+    public void active_seq_btn(int stage)
+    {
+        for (int i = 0; i < sbgScript.instance_list[stage-1].Count; i++) {
+            sbgScript.instance_list[stage - 1][i].SetActive(true);
+        }
+    }
+
+    public void deactive_seq_btn()
+    {
+        for (int i = 0; i < sbgScript.instance_list.Count; i++)
+        {
+            for (int j = 0; j < sbgScript.instance_list[i].Count; j++)
+            {
+                sbgScript.instance_list[i][j].SetActive(false);
+            }
+        }
+    }
+
+    public void set_seq_screen(int stage)
+    {
+        active_seq_btn(stage);
+        set_screen(1, 2);
+    }
+
+    public void set_study_screen(int from_num, int to_num, int stage)
+    {
+        splittedWordList = new WordList(wordList.words, from_num, to_num, stage);
         study_mode = true;
         swlIdx = 0;
         set_screen(2, 3);
@@ -73,26 +115,33 @@ public class GameManager : MonoBehaviour
         // }
     }
 
-    public void Exit_game(){
+    public void Exit_game()
+    {
         Debug.Log("exit");
         Application.Quit();
     }
 
-    public void LoadWords(int mode)
+    public void LoadWords(/*int mode*/)
     {
-        if (TA_list[mode] == null)
+        // if (TA_list[mode] == null)
+        // {
+        //     Debug.LogError("JSON 파일이 할당되지 않았습니다.");
+        //     return;
+        // }
+
+        if (jsonFile == null)
         {
             Debug.LogError("JSON 파일이 할당되지 않았습니다.");
             return;
         }
 
-        wordList = JsonUtility.FromJson<WordList>(TA_list[mode].text);
+        wordList = JsonUtility.FromJson<WordList>(jsonFile.text);
 
         // foreach (var word in wordList.words)
         // {
         //     Debug.Log($"단어: {word.word}, 뜻: {word.meaning}");
         // }
-
-        sbgScript.GenBtn(wordList.words.Count);
+        
     }
+
 }
