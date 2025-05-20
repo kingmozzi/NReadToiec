@@ -21,6 +21,7 @@ public class Select_seq_Btn_Manager : MonoBehaviour
 
     public void active_back(){
         //to title_screen;
+        GameManager.Instance.deactive_seq_btn();
         GameManager.Instance.set_screen(2, 1);
     }
 }

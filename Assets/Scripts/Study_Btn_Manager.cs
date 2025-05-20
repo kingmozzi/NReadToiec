@@ -34,6 +34,7 @@ public class Study_Btn_Manager : MonoBehaviour
         meaning_txt.SetActive(false);
         GameManager.Instance.swlIdx++;
         if(GameManager.Instance.swlIdx>=GameManager.Instance.splittedWordList.words.Count){
+            GameManager.Instance.splittedWordList.ShuffleWords();
             GameManager.Instance.swlIdx = 0;
         }
     }

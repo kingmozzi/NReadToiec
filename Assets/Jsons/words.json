@@ -126,7 +126,7 @@
     },
     {
       "word": "conduct",
-      "meaning": "동: 수행하다 명: 행동"
+      "meaning": "동: 실시하다, 수행하다 명: 행동"
     },
     {
       "word": "commitment",
@@ -166,7 +166,7 @@
     },
     {
       "word": "note",
-      "meaning": "동: 주목하다"
+      "meaning": "동: 주목하다, 유념하다"
     },
     {
       "word": "inspect",
@@ -350,7 +350,7 @@
     },
     {
       "word": "address",
-      "meaning": "다루다, (직접)말하다, 신청하다"
+      "meaning": "다루다, (직접)말하다, 신청하다, (~에게)보내다"
     },
     {
       "word": "highly",
@@ -758,7 +758,7 @@
     },
     {
       "word": "following",
-      "meaning": "전: -후에 형: 다음의"
+      "meaning": "전: -후에 형: 다음의, 명: 지지자들, 추종자들, 팬"
     },
     {
       "word": "renovate",
@@ -1339,10 +1339,6 @@
     {
       "word": "whether(or not)",
       "meaning": "-이든 아니든"
-    },
-    {
-      "word": "provided (that)",
-      "meaning": "-라는 조건 하에"
     },
     {
       "word": "as long as",
@@ -2094,7 +2090,7 @@
     },
     {
       "word": "come by",
-      "meaning": "~에 잠깐 들르다(stop by)"
+      "meaning": "~에 잠깐 들르다(stop by, drop by)"
     },
     {
       "word": "hard copy",
@@ -2745,10 +2741,6 @@
       "meaning": "급하게 연락했는데"
     },
     {
-      "word": "home appliance",
-      "meaning": "가전제품"
-    },
-    {
       "word": "cut down on",
       "meaning": "~를 줄이다"
     },
@@ -2815,10 +2807,6 @@
     {
       "word": "tremendous",
       "meaning": "굉장한, 엄청난"
-    },
-    {
-      "word": "drop by",
-      "meaning": "잠깐 들르다"
     },
     {
       "word": "a round of applause",
@@ -3518,7 +3506,7 @@
     },
     {
       "word": "material",
-      "meaning": "자료"
+      "meaning": "자료, 물품"
     },
     {
       "word": "get publicity",
@@ -3594,7 +3582,7 @@
     },
     {
       "word": "make it",
-      "meaning": "(모임에) 참석하다, 가다"
+      "meaning": "(모임에) 참석하다, 가다, 시간 맞춰 가다."
     },
     {
       "word": "meeting minutes",
@@ -3834,7 +3822,7 @@
     },
     {
       "word": "acknowledge",
-      "meaning": "인정하다"
+      "meaning": "인정하다, 감사하다"
     },
     {
       "word": "assumtion",
@@ -3895,6 +3883,1798 @@
     {
       "word": "whereas",
       "meaning": "접: 반면에"
+    },
+    {
+      "word": "maintain",
+      "meaning": "유지하다"
+    },
+    {
+      "word": "circumstance",
+      "meaning": "상황"
+    },
+    {
+      "word": "beyond one's control",
+      "meaning": "통제할 수 없는"
+    },
+    {
+      "word": "conflict",
+      "meaning": "(일정이) 겹치다, 갈등"
+    },
+    {
+      "word": "take over",
+      "meaning": "대신하다, 넘겨받다"
+    },
+    {
+      "word": "bistro",
+      "meaning": "작은 음식점, 비스트로"
+    },
+    {
+      "word": "theatergoer",
+      "meaning": "극장에 (자주) 가는 사람"
+    },
+    {
+      "word": "eatery",
+      "meaning": "음식점"
+    },
+    {
+      "word": "executive chef",
+      "meaning": "총주방장"
+    },
+    {
+      "word": "saving",
+      "meaning": "감액"
+    },
+    {
+      "word": "high-profile",
+      "meaning": "대단히 주목 받는"
+    },
+    {
+      "word": "en masse",
+      "meaning": "집단으로"
+    },
+    {
+      "word": "roll-out",
+      "meaning": "(신제품의) 첫 공개"
+    },
+    {
+      "word": "be to blame",
+      "meaning": "(잘못의) 책임이 있다"
+    },
+    {
+      "word": "reconfigure",
+      "meaning": "(시스템, 기기 등을) 재배열[재설정]하다"
+    },
+    {
+      "word": "enthusiast",
+      "meaning": "열렬한 팬"
+    },
+    {
+      "word": "step in",
+      "meaning": "나서다, 개입하다"
+    },
+    {
+      "word": "go out of business",
+      "meaning": "파산하다, 폐업하다"
+    },
+    {
+      "word": "mainland",
+      "meaning": "(섬을 제외한) 본토"
+    },
+    {
+      "word": "restriction",
+      "meaning": "규제"
+    },
+    {
+      "word": "be in force",
+      "meaning": "(법률 등이) 시행되다"
+    },
+    {
+      "word": "prohibit A from -ing",
+      "meaning": "A가 ~하는 것을 금하다"
+    },
+    {
+      "word": "set foot on",
+      "meaning": "~에 발을 들여놓다"
+    },
+    {
+      "word": "watercraft",
+      "meaning": "배, 배를 타는 기술"
+    },
+    {
+      "word": "offshore",
+      "meaning": "연안에"
+    },
+    {
+      "word": "make landfall",
+      "meaning": "착륙하다"
+    },
+    {
+      "word": "time interval",
+      "meaning": "시간 간격"
+    },
+    {
+      "word": "bird-nesting",
+      "meaning": "(취미로) 새 둥지를 찾아다니는"
+    },
+    {
+      "word": "escort",
+      "meaning": "수행원, 보호자"
+    },
+    {
+      "word": "cap",
+      "meaning": "(인원을) 제한하다"
+    },
+    {
+      "word": "reserve the right to + 동사원형",
+      "meaning": "~할 권한을 보유하다"
+    },
+    {
+      "word": "be credited to ",
+      "meaning": "~로 입금되다[금액이 넘어가다]"
+    },
+    {
+      "word": "specified",
+      "meaning": "명시된, 지정된"
+    },
+    {
+      "word": "interfere with",
+      "meaning": "~을 방해하다"
+    },
+    {
+      "word": "choose to + 동사원형",
+      "meaning": "~하기로 결정하다"
+    },
+    {
+      "word": "have A + 과거분사",
+      "meaning": "A가 ~되게 하다"
+    },
+    {
+      "word": "ultraviolet",
+      "meaning": "자외선(의)"
+    },
+    {
+      "word": "blacklight",
+      "meaning": "블랙라이트, 가시광선 근처에 있는 자외선"
+    },
+    {
+      "word": "authenticity",
+      "meaning": "진짜임"
+    },
+    {
+      "word": "well in advance",
+      "meaning": "한참 전에"
+    },
+    {
+      "word": "compliment",
+      "meaning": "칭찬하다"
+    },
+    {
+      "word": "by contrast",
+      "meaning": "그와 대조적으로"
+    },
+    {
+      "word": "sincere",
+      "meaning": "진실한"
+    },
+    {
+      "word": "abundant",
+      "meaning": "넘치는"
+    },
+    {
+      "word": "hearty",
+      "meaning": "(음식이) 푸짐하고 만족스러운"
+    },
+    {
+      "word": "acidic",
+      "meaning": "매우 신"
+    },
+    {
+      "word": "halibut",
+      "meaning": "광어"
+    },
+    {
+      "word": "tender",
+      "meaning": "(고기가) 연한"
+    },
+    {
+      "word": "fairly",
+      "meaning": "상당히"
+    },
+    {
+      "word": "periodical",
+      "meaning": "정기 간행물"
+    },
+    {
+      "word": "offer ample room to + 동사원형",
+      "meaning": "~할 여지가 많다[충분하다]"
+    },
+    {
+      "word": "sales territory",
+      "meaning": "영업구역"
+    },
+    {
+      "word": "forward",
+      "meaning": "전달하다"
+    },
+    {
+      "word": "overlook",
+      "meaning": "못 보고 지나치다"
+    },
+    {
+      "word": "namely",
+      "meaning": "이른바, ~와 같은"
+    },
+    {
+      "word": "be of service to",
+      "meaning": "~에게 도움이 되다"
+    },
+    {
+      "word": "leap",
+      "meaning": "도약"
+    },
+    {
+      "word": "dozens of",
+      "meaning": "수십 개의"
+    },
+    {
+      "word": "interactive entertainment",
+      "meaning": "쌍방향 오락"
+    },
+    {
+      "word": "managing director",
+      "meaning": "(경우에 따라) 전무, 상무, 사장"
+    },
+    {
+      "word": "social event",
+      "meaning": "사교 행사"
+    },
+    {
+      "word": "on onccation",
+      "meaning": "때때로, 가끔"
+    },
+    {
+      "word": "virtually",
+      "meaning": "사실상"
+    },
+    {
+      "word": "identical to",
+      "meaning": "~와 똑같은"
+    },
+    {
+      "word": "as for",
+      "meaning": "~에 관해서는, ~의 경우에는"
+    },
+    {
+      "word": "loyal customer",
+      "meaning": "단골 고객"
+    },
+    {
+      "word": "prepaid",
+      "meaning": "선납[선불]의"
+    },
+    {
+      "word": "framed print",
+      "meaning": "그림"
+    },
+    {
+      "word": "in person",
+      "meaning": "직접, 몸소"
+    },
+    {
+      "word": "have a great selection of",
+      "meaning": "~을 많이[다양하게] 갖추고 있다"
+    },
+    {
+      "word": "accommodating",
+      "meaning": "친절한"
+    },
+    {
+      "word": "administer",
+      "meaning": "집행하다, 실시하다"
+    },
+    {
+      "word": "commercial construction",
+      "meaning": "상업 건축"
+    },
+    {
+      "word": "solidify",
+      "meaning": "탄탄하게 하다"
+    },
+    {
+      "word": "forefront",
+      "meaning": "일신"
+    },
+    {
+      "word": "ever-growing",
+      "meaning": "계속 성장하는"
+    },
+    {
+      "word": "building trade",
+      "meaning": "건축업"
+    },
+    {
+      "word": "take on",
+      "meaning": "~을 맡다"
+    },
+    {
+      "word": "logistical",
+      "meaning": "물류 관리의, 업무 조직에 관한"
+    },
+    {
+      "word": "chairperson",
+      "meaning": "의장"
+    },
+    {
+      "word": "acquisitions committee",
+      "meaning": "인수위원회"
+    },
+    {
+      "word": "administration(department)",
+      "meaning": "총무부"
+    },
+    {
+      "word": "vice president",
+      "meaning": "부사장"
+    },
+    {
+      "word": "general manager",
+      "meaning": "부장"
+    },
+    {
+      "word": "be compensated for",
+      "meaning": "~을 보상 받다"
+    },
+    {
+      "word": "be directed to + 동사원형",
+      "meaning": "~하라고 안내[지시]받다"
+    },
+    {
+      "word": "screening questionnaire",
+      "meaning": "설문 검사"
+    },
+    {
+      "word": "tide",
+      "meaning": "조수, 조류"
+    },
+    {
+      "word": "hold the power over",
+      "meaning": "~를 지배하다, 장악하다"
+    },
+    {
+      "word": "a host of",
+      "meaning": "많은"
+    },
+    {
+      "word": "have ~ on file",
+      "meaning": "~을 보관하다"
+    },
+    {
+      "word": "magnificcent",
+      "meaning": "멋진, 훌륭한"
+    },
+    {
+      "word": "per",
+      "meaning": "~에 따라"
+    },
+    {
+      "word": "indigenous",
+      "meaning": "토착민의"
+    },
+    {
+      "word": "traveling exhibition",
+      "meaning": "이동전시회"
+    },
+    {
+      "word": "work luncheon",
+      "meaning": "업무 오찬"
+    },
+    {
+      "word": "be thrilled to + 동사원형",
+      "meaning": "~해서 매우 기쁘다"
+    },
+    {
+      "word": "criterion",
+      "meaning": "기준(pl. criteria)"
+    },
+    {
+      "word": "come up with a list",
+      "meaning": "목록을 만들다"
+    },
+    {
+      "word": "pedestrian traffic",
+      "meaning": "사람의 왕래"
+    },
+    {
+      "word": "have high visibility",
+      "meaning": "눈에 잘 띄다"
+    },
+    {
+      "word": "furnished",
+      "meaning": "가구가 갖춰진"
+    },
+    {
+      "word": "prearranged",
+      "meaning": "사전에 협의된"
+    },
+    {
+      "word": "narrow down",
+      "meaning": "범위를 좁히다"
+    },
+    {
+      "word": "last-minute",
+      "meaning": "막판의"
+    },
+    {
+      "word": "compromise on",
+      "meaning": "~에 대해 타협하다"
+    },
+    {
+      "word": "commute",
+      "meaning": "통근[출퇴근]하다"
+    },
+    {
+      "word": "have a presence",
+      "meaning": "존재감을 드러내다, 참가하다"
+    },
+    {
+      "word": "streetlamp",
+      "meaning": "가로등"
+    },
+    {
+      "word": "run late",
+      "meaning": "늦어지다"
+    },
+    {
+      "word": "take inventory",
+      "meaning": "재고 조사를 하다"
+    },
+    {
+      "word": "semester",
+      "meaning": "학기"
+    },
+    {
+      "word": "textbook",
+      "meaning": "교과서"
+    },
+    {
+      "word": "look over",
+      "meaning": "살펴보다, 훑어보다"
+    },
+    {
+      "word": "transmission",
+      "meaning": "전송, 전송 장치"
+    },
+    {
+      "word": "work on",
+      "meaning": "작업하다, 수리하다"
+    },
+    {
+      "word": "informative",
+      "meaning": "유익한"
+    },
+    {
+      "word": "opportune",
+      "meaning": "(시간상으로) 적절한"
+    },
+    {
+      "word": "yearn",
+      "meaning": "갈망하다, 동경하다"
+    },
+    {
+      "word": "bring one's attention to",
+      "meaning": "~를 주목하게 하다, 주의를 환기시키다"
+    },
+    {
+      "word": "refine",
+      "meaning": "개선하다, 개량하다"
+    },
+    {
+      "word": "be under way",
+      "meaning": "진행중이다"
+    },
+    {
+      "word": "confined",
+      "meaning": "좁고 사방이 막힌"
+    },
+    {
+      "word": "takeoff",
+      "meaning": "이륙"
+    },
+    {
+      "word": "unprecedented",
+      "meaning": "전례가 없는"
+    },
+    {
+      "word": "pass out",
+      "meaning": "나눠주다"
+    },
+    {
+      "word": "ecological",
+      "meaning": "생태(계)의"
+    },
+    {
+      "word": "evict",
+      "meaning": "퇴거시키다, 쫓아내다"
+    },
+    {
+      "word": "misuse",
+      "meaning": "오용"
+    },
+    {
+      "word": "on hand",
+      "meaning": "가까이에, 수중에"
+    },
+    {
+      "word": "textile-printing",
+      "meaning": "날염"
+    },
+    {
+      "word": "refer A to B",
+      "meaning": "A (문제 등을) B에게 부탁하다, 맡기다"
+    },
+    {
+      "word": "rest assured (that ~)",
+      "meaning": "(~임을) 확신해도 된다, 믿어도 된다"
+    },
+    {
+      "word": "proprietary information",
+      "meaning": "재산권 대상이 될 수 있는 정보"
+    },
+    {
+      "word": "boon",
+      "meaning": "이익, 요긴한 것"
+    },
+    {
+      "word": "tucked",
+      "meaning": "(~에) 쏙 들어가 위치한"
+    },
+    {
+      "word": "unassuming",
+      "meaning": "주제넘지 않는, 겸손한"
+    },
+    {
+      "word": "nondescript",
+      "meaning": "특징이 없는"
+    },
+    {
+      "word": "abundance",
+      "meaning": "다량, 풍부"
+    },
+    {
+      "word": "enormous",
+      "meaning": "거대한"
+    },
+    {
+      "word": "churn out",
+      "meaning": "대량으로 만들어 내다"
+    },
+    {
+      "word": "fabric",
+      "meaning": "직물"
+    },
+    {
+      "word": "appreciative",
+      "meaning": "진가를 아는, (차이를) 식별할 수 있는"
+    },
+    {
+      "word": "take part in",
+      "meaning": "~에 참여하다"
+    },
+    {
+      "word": "breakthrough",
+      "meaning": "돌파구, 진전"
+    },
+    {
+      "word": "pit A against B",
+      "meaning": "A를 B와 경쟁 붙이다"
+    },
+    {
+      "word": "inception",
+      "meaning": "처음, 시초"
+    },
+    {
+      "word": "nonexistent",
+      "meaning": "존재하지 않는"
+    },
+    {
+      "word": "bandage",
+      "meaning": "반창고"
+    },
+    {
+      "word": "sterile",
+      "meaning": "살균된"
+    },
+    {
+      "word": "knee brace",
+      "meaning": "무릎보조대"
+    },
+    {
+      "word": "upon receipt of",
+      "meaning": "~을 받는 대로"
+    },
+    {
+      "word": "realize savings",
+      "meaning": "절약을 실천하다"
+    },
+    {
+      "word": "ethnic",
+      "meaning": "민족의"
+    },
+    {
+      "word": "cuisine",
+      "meaning": "(고급) 요리"
+    },
+    {
+      "word": "vibrant",
+      "meaning": "활기찬"
+    },
+    {
+      "word": "nature preserve",
+      "meaning": "천연보호구"
+    },
+    {
+      "word": "exquisite",
+      "meaning": "매우 아름다운"
+    },
+    {
+      "word": "as usual",
+      "meaning": "평소대로"
+    },
+    {
+      "word": "march down the street",
+      "meaning": "가두 행진하다"
+    },
+    {
+      "word": "in the vicinity of",
+      "meaning": "~의 근처에서"
+    },
+    {
+      "word": "continuing education",
+      "meaning": "평생교육, 성인교육"
+    },
+    {
+      "word": "unless otherwise noted",
+      "meaning": "별도 고지가 없는 한"
+    },
+    {
+      "word": "vocational",
+      "meaning": "직업과 관련된"
+    },
+    {
+      "word": "auto shop",
+      "meaning": "자동차 정비소"
+    },
+    {
+      "word": "attend to",
+      "meaning": "~을 처리하다"
+    },
+    {
+      "word": "vine",
+      "meaning": "덩굴"
+    },
+    {
+      "word": "eggplant",
+      "meaning": "가지"
+    },
+    {
+      "word": "loose",
+      "meaning": "묶여 있지 않은, 날개로 된"
+    },
+    {
+      "word": "thyme",
+      "meaning": "백리향"
+    },
+    {
+      "word": "burlap bag",
+      "meaning": "자루"
+    },
+    {
+      "word": "bunch",
+      "meaning": "묶음"
+    },
+    {
+      "word": "crate",
+      "meaning": "상자"
+    },
+    {
+      "word": "brussels sprout",
+      "meaning": "방울다다기양배추"
+    },
+    {
+      "word": "be on time",
+      "meaning": "시간을 잘 지키다"
+    },
+    {
+      "word": "courteous",
+      "meaning": "정중한, 친절한"
+    },
+    {
+      "word": "misplace",
+      "meaning": "제자리에 두지 않다, 잃어 버리다"
+    },
+    {
+      "word": "business card",
+      "meaning": "명함"
+    },
+    {
+      "word": "consultation",
+      "meaning": "상담"
+    },
+    {
+      "word": "hallway",
+      "meaning": "복도"
+    },
+    {
+      "word": "follow up",
+      "meaning": "뒤따르다"
+    },
+    {
+      "word": "work one's shift",
+      "meaning": "교대 근무하다"
+    },
+    {
+      "word": "put on",
+      "meaning": "(동작) ~을 착용하다[입다] (cf. wear 착용한 상태)"
+    },
+    {
+      "word": "letterhead stationery",
+      "meaning": "편지지"
+    },
+    {
+      "word": "take a year off",
+      "meaning": "1년 휴가를 보내다"
+    },
+    {
+      "word": "batch",
+      "meaning": "한 회분"
+    },
+    {
+      "word": "get to work",
+      "meaning": "출근하다"
+    },
+    {
+      "word": "refrigerator",
+      "meaning": "냉장고"
+    },
+    {
+      "word": "instrument",
+      "meaning": "기구"
+    },
+    {
+      "word": "instrumentally",
+      "meaning": "방법을 써서"
+    },
+    {
+      "word": "prior to",
+      "meaning": "~ 전에"
+    },
+    {
+      "word": "completion",
+      "meaning": "완료"
+    },
+    {
+      "word": "persist",
+      "meaning": "끈질기게 계속하다"
+    },
+    {
+      "word": "possess",
+      "meaning": "소유하다"
+    },
+    {
+      "word": "distinct",
+      "meaning": "뚜렷한"
+    },
+    {
+      "word": "fragrance",
+      "meaning": "향수"
+    },
+    {
+      "word": "impact",
+      "meaning": "영향을 미치다; 영향"
+    },
+    {
+      "word": "self-governing",
+      "meaning": "자치의"
+    },
+    {
+      "word": "controversial",
+      "meaning": "논란이 많은"
+    },
+    {
+      "word": "neatly",
+      "meaning": "깔끔하게"
+    },
+    {
+      "word": "gracefully",
+      "meaning": "우아하게"
+    },
+    {
+      "word": "housing",
+      "meaning": "주택"
+    },
+    {
+      "word": "realty",
+      "meaning": "부동산"
+    },
+    {
+      "word": "guidance",
+      "meaning": "지침[안내]"
+    },
+    {
+      "word": "craving",
+      "meaning": "갈망"
+    },
+    {
+      "word": "relative",
+      "meaning": "친척"
+    },
+    {
+      "word": "credit ~ to ...",
+      "meaning": "~을 ...의 공으로 돌리다"
+    },
+    {
+      "word": "inherit",
+      "meaning": "물려받다"
+    },
+    {
+      "word": "glance",
+      "meaning": "흘낏 봄"
+    },
+    {
+      "word": "revolutionize",
+      "meaning": "변혁시키다"
+    },
+    {
+      "word": "consumption",
+      "meaning": "소비"
+    },
+    {
+      "word": "acclaimed",
+      "meaning": "호평을 받는"
+    },
+    {
+      "word": "aid",
+      "meaning": "도움"
+    },
+    {
+      "word": "verbal",
+      "meaning": "(글이 아니라) 말로 된"
+    },
+    {
+      "word": "grasp",
+      "meaning": "완전히 이해하다"
+    },
+    {
+      "word": "determine",
+      "meaning": "알아내다"
+    },
+    {
+      "word": "limb",
+      "meaning": "(큰) 나뭇가지"
+    },
+    {
+      "word": "trunk",
+      "meaning": "나무의 몸통"
+    },
+    {
+      "word": "cope with",
+      "meaning": "~에 대처하다, 감수하다"
+    },
+    {
+      "word": "alleviate",
+      "meaning": "완화하다"
+    },
+    {
+      "word": "affix",
+      "meaning": "부착하다"
+    },
+    {
+      "word": "company-wide",
+      "meaning": "회사 전반에 걸쳐서"
+    },
+    {
+      "word": "all-round",
+      "meaning": "전면적인"
+    },
+    {
+      "word": "premises",
+      "meaning": "부지, 구내"
+    },
+    {
+      "word": "handheld",
+      "meaning": "손에 들고 쓰는, 소형의"
+    },
+    {
+      "word": "run out",
+      "meaning": "다 떨어지다"
+    },
+    {
+      "word": "look into",
+      "meaning": "검토하다"
+    },
+    {
+      "word": "specialty",
+      "meaning": "전문 음식[요리]"
+    },
+    {
+      "word": "delectable",
+      "meaning": "아주 맛있는"
+    },
+    {
+      "word": "chic",
+      "meaning": "세련된"
+    },
+    {
+      "word": "surefire",
+      "meaning": "확실한"
+    },
+    {
+      "word": "top-of-the-line",
+      "meaning": "최고급의"
+    },
+    {
+      "word": "exhaust",
+      "meaning": "배기관"
+    },
+    {
+      "word": "billable",
+      "meaning": "청구할 수 있는"
+    },
+    {
+      "word": "examine",
+      "meaning": "점검하다"
+    },
+    {
+      "word": "synthetic",
+      "meaning": "합성한"
+    },
+    {
+      "word": "stain",
+      "meaning": "얼룩; 얼룩지다"
+    },
+    {
+      "word": "spill",
+      "meaning": "흘린 액체; 흘리다"
+    },
+    {
+      "word": "rezoning",
+      "meaning": "구역 재조정"
+    },
+    {
+      "word": "advocacy",
+      "meaning": "지지, 변호"
+    },
+    {
+      "word": "rug",
+      "meaning": "(작은 카펫같이 생긴) 깔개[양탄자]"
+    },
+    {
+      "word": "unroll",
+      "meaning": "펼치다, 펴다"
+    },
+    {
+      "word": "file",
+      "meaning": "(정식으로) 신청하다, (서류 등을) 정리 보관하다"
+    },
+    {
+      "word": "locally grown",
+      "meaning": "현지에서 재배된"
+    },
+    {
+      "word": "out of town",
+      "meaning": "자리를 비운, 출타 중인"
+    },
+    {
+      "word": "get back to",
+      "meaning": "~로 되돌아가다"
+    },
+    {
+      "word": "founding partner",
+      "meaning": "창립 파트너"
+    },
+    {
+      "word": "get in",
+      "meaning": "입장하다"
+    },
+    {
+      "word": "election",
+      "meaning": "선거"
+    },
+    {
+      "word": "generous",
+      "meaning": "넉넉한, 후한"
+    },
+    {
+      "word": "rep",
+      "meaning": "(representative의 줄임말) 직원, 대변인"
+    },
+    {
+      "word": "above",
+      "meaning": "~보다 위에"
+    },
+    {
+      "word": "acquisition",
+      "meaning": "인수"
+    },
+    {
+      "word": "eventually",
+      "meaning": "마침내"
+    },
+    {
+      "word": "hastily",
+      "meaning": "급히"
+    },
+    {
+      "word": "reluctantly",
+      "meaning": "마지못해"
+    },
+    {
+      "word": "exceedingly",
+      "meaning": "극도로"
+    },
+    {
+      "word": "excess",
+      "meaning": "초과량"
+    },
+    {
+      "word": "excessive",
+      "meaning": "과도한"
+    },
+    {
+      "word": "upwardly",
+      "meaning": "위쪽을 향해"
+    },
+    {
+      "word": "actively",
+      "meaning": "적극적으로"
+    },
+    {
+      "word": "take place",
+      "meaning": "발생하다"
+    },
+    {
+      "word": "cubicle",
+      "meaning": "(칸막이로 구분한) 좁은 구획"
+    },
+    {
+      "word": "unparalledled",
+      "meaning": "비할 데 없는"
+    },
+    {
+      "word": "logistics",
+      "meaning": "실행 계획, 물류"
+    },
+    {
+      "word": "end",
+      "meaning": "한쪽 편"
+    },
+    {
+      "word": "route",
+      "meaning": "보내다"
+    },
+    {
+      "word": "preferable",
+      "meaning": "더 좋은"
+    },
+    {
+      "word": "thriving",
+      "meaning": "번영하는"
+    },
+    {
+      "word": "diverse",
+      "meaning": "다양한"
+    },
+    {
+      "word": "in-person",
+      "meaning": "직접, 대면하는"
+    },
+    {
+      "word": "commodity",
+      "meaning": "상품"
+    },
+    {
+      "word": "subatomic particle",
+      "meaning": "아원자 입자"
+    },
+    {
+      "word": "lubricant",
+      "meaning": "윤활유"
+    },
+    {
+      "word": "formulation",
+      "meaning": "제조"
+    },
+    {
+      "word": "tidy",
+      "meaning": "깔끔한"
+    },
+    {
+      "word": "greenery",
+      "meaning": "화초"
+    },
+    {
+      "word": "mow",
+      "meaning": "깎다"
+    },
+    {
+      "word": "trim",
+      "meaning": "다듬다"
+    },
+    {
+      "word": "organic",
+      "meaning": "유기농의"
+    },
+    {
+      "word": "fertilizer",
+      "meaning": "비료"
+    },
+    {
+      "word": "weed",
+      "meaning": "잡초"
+    },
+    {
+      "word": "shrub",
+      "meaning": "관목"
+    },
+    {
+      "word": "pruning",
+      "meaning": "가지치기"
+    },
+    {
+      "word": "ornametal",
+      "meaning": "장식용의"
+    },
+    {
+      "word": "solicit",
+      "meaning": "요청하다"
+    },
+    {
+      "word": "bid",
+      "meaning": "입찰(가)"
+    },
+    {
+      "word": "boulevard",
+      "meaning": "대로"
+    },
+    {
+      "word": "straightforward",
+      "meaning": "간단한"
+    },
+    {
+      "word": "count on",
+      "meaning": "~를 믿다"
+    },
+    {
+      "word": "lean over",
+      "meaning": "~로 상체를 구부리다"
+    },
+    {
+      "word": "weatherability",
+      "meaning": "악천후에 잘 견디는 성질"
+    },
+    {
+      "word": "weathering",
+      "meaning": "풍화"
+    },
+    {
+      "word": "altogether",
+      "meaning": "모두 합쳐"
+    },
+    {
+      "word": "fondly",
+      "meaning": "~에 대해 호의적으로 말하다"
+    },
+    {
+      "word": "vaguely",
+      "meaning": "애매하게"
+    },
+    {
+      "word": "critically",
+      "meaning": "비판적으로"
+    },
+    {
+      "word": "welding",
+      "meaning": "용접"
+    },
+    {
+      "word": "flow out",
+      "meaning": "흘러나오다"
+    },
+    {
+      "word": "soil",
+      "meaning": "흙"
+    },
+    {
+      "word": "dirt",
+      "meaning": "먼지, 흙"
+    },
+    {
+      "word": "harmful",
+      "meaning": "해로운"
+    },
+    {
+      "word": "pinch",
+      "meaning": "(싹 따위를) 따다"
+    },
+    {
+      "word": "withered",
+      "meaning": "말라 죽은, 메마른"
+    },
+    {
+      "word": "extension",
+      "meaning": "내선 번호"
+    },
+    {
+      "word": "repot",
+      "meaning": "분갈이하다"
+    },
+    {
+      "word": "mail-order",
+      "meaning": "통신 판매 제도"
+    },
+    {
+      "word": "turnaround",
+      "meaning": "(화물 등의) 적재 처리"
+    },
+    {
+      "word": "retrieval",
+      "meaning": "회수"
+    },
+    {
+      "word": "freight",
+      "meaning": "화물"
+    },
+    {
+      "word": "tethering",
+      "meaning": "테더링"
+    },
+    {
+      "word": "narrow",
+      "meaning": "좁은"
+    },
+    {
+      "word": "bulk order",
+      "meaning": "대량 주문"
+    },
+    {
+      "word": "at the conclusion of",
+      "meaning": "~의 마지막에"
+    },
+    {
+      "word": "facilitator",
+      "meaning": "진행자"
+    },
+    {
+      "word": "presence",
+      "meaning": "존재, 입지"
+    },
+    {
+      "word": "as per",
+      "meaning": "~에 따라"
+    },
+    {
+      "word": "tenure",
+      "meaning": "임기"
+    },
+    {
+      "word": "CFO",
+      "meaning": "(Chief Finance Officer) 자금 관리 이사"
+    },
+    {
+      "word": "preside",
+      "meaning": "주도하다"
+    },
+    {
+      "word": "threefold",
+      "meaning": "3배의"
+    },
+    {
+      "word": "alongside",
+      "meaning": "~와 함께"
+    },
+    {
+      "word": "plaque",
+      "meaning": "명판, 감사패"
+    },
+    {
+      "word": "ZAR",
+      "meaning": "자르(남아공의 화폐)"
+    },
+    {
+      "word": "iconic",
+      "meaning": "~의 상징이 되는"
+    },
+    {
+      "word": "well versed",
+      "meaning": "정통한"
+    },
+    {
+      "word": "excursion",
+      "meaning": "여행"
+    },
+    {
+      "word": "island hopping",
+      "meaning": "이 섬 저 섬으로 여행 다니기"
+    },
+    {
+      "word": "cliff",
+      "meaning": "절벽"
+    },
+    {
+      "word": "poultry",
+      "meaning": "가금류"
+    },
+    {
+      "word": "transparency",
+      "meaning": "투명성"
+    },
+    {
+      "word": "level",
+      "meaning": "겨누다"
+    },
+    {
+      "word": "conglomerate",
+      "meaning": "대기업"
+    },
+    {
+      "word": "proactive",
+      "meaning": "주도적인"
+    },
+    {
+      "word": "confidence",
+      "meaning": "신뢰"
+    },
+    {
+      "word": "workout",
+      "meaning": "운동"
+    },
+    {
+      "word": "weightlifting",
+      "meaning": "역도"
+    },
+    {
+      "word": "cardio",
+      "meaning": "심장의; 심장 강화 운동"
+    },
+    {
+      "word": "stationary",
+      "meaning": "고정된"
+    },
+    {
+      "word": "tone",
+      "meaning": "(근육, 피부를) 탄력 있게 만들다"
+    },
+    {
+      "word": "proprietary",
+      "meaning": "전매의, 소유주의"
+    },
+    {
+      "word": "rigorous",
+      "meaning": "엄격한"
+    },
+    {
+      "word": "take apart",
+      "meaning": "분리하다"
+    },
+    {
+      "word": "outthink",
+      "meaning": "~보다 깊이[빨리] 생각하다, (상대를) 앞지르다"
+    },
+    {
+      "word": "hands-on",
+      "meaning": "직접 해 보는"
+    },
+    {
+      "word": "accompanying",
+      "meaning": "수반하는"
+    },
+    {
+      "word": "readership",
+      "meaning": "독자층"
+    },
+    {
+      "word": "inhibit",
+      "meaning": "저해하다"
+    },
+    {
+      "word": "distance education",
+      "meaning": "원격 교육"
+    },
+    {
+      "word": "pediatric denistry",
+      "meaning": "소아 치과학"
+    },
+    {
+      "word": "graduate school",
+      "meaning": "대학원"
+    },
+    {
+      "word": "cultivate",
+      "meaning": "구축하다"
+    },
+    {
+      "word": "CV",
+      "meaning": "이력서(= curriculum vitae)"
+    },
+    {
+      "word": "faculty",
+      "meaning": "강사[교수]진, 학부"
+    },
+    {
+      "word": "dormitory",
+      "meaning": "기숙사"
+    },
+    {
+      "word": "superb",
+      "meaning": "훌륭한"
+    },
+    {
+      "word": "kitchenette",
+      "meaning": "간이 주방"
+    },
+    {
+      "word": "dub",
+      "meaning": "일컫다, 별명을 붙이다"
+    },
+    {
+      "word": "countertop",
+      "meaning": "조리대, 작업대"
+    },
+    {
+      "word": "faucet",
+      "meaning": "수도꼭지"
+    },
+    {
+      "word": "net",
+      "meaning": "순, 에누리 없는"
+    },
+    {
+      "word": "upfront",
+      "meaning": "선불의, 선불로"
+    },
+    {
+      "word": "situated at",
+      "meaning": "~에 위치하고 있는"
+    },
+    {
+      "word": "identical",
+      "meaning": "동일한"
+    },
+    {
+      "word": "barge",
+      "meaning": "바지선"
+    },
+    {
+      "word": "disrupt",
+      "meaning": "방해하다"
+    },
+    {
+      "word": "pedestrian",
+      "meaning": "보행자"
+    },
+    {
+      "word": "pier",
+      "meaning": "교각, 기둥"
+    },
+    {
+      "word": "railing",
+      "meaning": "난간"
+    },
+    {
+      "word": "vacate",
+      "meaning": "비우다"
+    },
+    {
+      "word": "sewer",
+      "meaning": "하수"
+    },
+    {
+      "word": "upkeep",
+      "meaning": "관리"
+    },
+    {
+      "word": "tow",
+      "meaning": "견인하다"
+    },
+    {
+      "word": "fine",
+      "meaning": "벌금을 부과하다; 벌금"
+    },
+    {
+      "word": "unless otherwise specified",
+      "meaning": "별도의 언급이 없는 한"
+    },
+    {
+      "word": "ordinance",
+      "meaning": "법령, 조례"
+    },
+    {
+      "word": "take into account",
+      "meaning": "고려하다"
+    },
+    {
+      "word": "extent",
+      "meaning": "범위"
+    },
+    {
+      "word": "distribution",
+      "meaning": "유통, 배포"
+    },
+    {
+      "word": "loading bay",
+      "meaning": "적재 구획"
+    },
+    {
+      "word": "give a lift",
+      "meaning": "태워다 주다"
+    },
+    {
+      "word": "organise",
+      "meaning": "조직하다, 개최하다"
+    },
+    {
+      "word": "untangle",
+      "meaning": "(엉킨 것을) 풀다"
+    },
+    {
+      "word": "outlet",
+      "meaning": "콘센트"
+    },
+    {
+      "word": "debris",
+      "meaning": "부스러기, 잔해"
+    },
+    {
+      "word": "comprise",
+      "meaning": "차지하다"
+    },
+    {
+      "word": "trademarked",
+      "meaning": "상표가 등록된"
+    },
+    {
+      "word": "breeder",
+      "meaning": "품종 개발가, 재배자"
+    },
+    {
+      "word": "convection",
+      "meaning": "대류"
+    },
+    {
+      "word": "high-yield",
+      "meaning": "고성능의, 고수익의"
+    },
+    {
+      "word": "tricky",
+      "meaning": "어려운"
+    },
+    {
+      "word": "interchangeable",
+      "meaning": "호환[교체] 가능한"
+    },
+    {
+      "word": "intermediate",
+      "meaning": "중급의, 중간의"
+    },
+    {
+      "word": "embark",
+      "meaning": "시작하다"
+    },
+    {
+      "word": "continent",
+      "meaning": "대륙"
+    },
+    {
+      "word": "obvious",
+      "meaning": "분명한, 뻔한"
+    },
+    {
+      "word": "conservatie",
+      "meaning": "(숫자 등을) 적게 잡은, 보수적인"
+    },
+    {
+      "word": "nothing short of",
+      "meaning": "굉장히 ~한, 거의 ~나 마찬가지인"
+    },
+    {
+      "word": "phenomenal",
+      "meaning": "경이로운, 놀랄만한"
+    },
+    {
+      "word": "stunning",
+      "meaning": "깜짝 놀랄 만한, 굉장히 아름다운"
+    },
+    {
+      "word": "striking",
+      "meaning": "인상적인, 두드러진"
+    },
+    {
+      "word": "maritime",
+      "meaning": "해양의"
+    },
+    {
+      "word": "seafaring",
+      "meaning": "항해, 바다"
+    },
+    {
+      "word": "retired ship",
+      "meaning": "폐선"
+    },
+    {
+      "word": "betterment",
+      "meaning": "진보, 향상"
+    },
+    {
+      "word": "devote",
+      "meaning": "헌신하다"
+    },
+    {
+      "word": "spare time",
+      "meaning": "일하지 않는 시간"
+    },
+    {
+      "word": "clarify",
+      "meaning": "명백히 하다"
+    },
+    {
+      "word": "company newsletter",
+      "meaning": "회사 사보, 회보"
+    },
+    {
+      "word": "resolution",
+      "meaning": "해상도"
+    },
+    {
+      "word": "introductory offer",
+      "meaning": "신규 가입 할인, 출시 기념 특별가"
+    },
+    {
+      "word": "cohesive",
+      "meaning": "응집력 있는, 화합하는"
+    },
+    {
+      "word": "statement of agreement",
+      "meaning": "협의서"
+    },
+    {
+      "word": "subject matter",
+      "meaning": "주제, 소재"
+    },
+    {
+      "word": "firmness",
+      "meaning": "확고함, 단단함"
+    },
+    {
+      "word": "occupancy",
+      "meaning": "점유(율), 이용(율); 수용 능력"
+    },
+    {
+      "word": "peak",
+      "meaning": "최고의, 최대의; 성수기"
+    },
+    {
+      "word": "amenities",
+      "meaning": "오락 시설, 편의 시설"
+    },
+    {
+      "word": "client base",
+      "meaning": "고객층"
+    },
+    {
+      "word": "horticultural",
+      "meaning": "원예의, 원예학의"
+    },
+    {
+      "word": "token",
+      "meaning": "표시, 징표"
+    },
+    {
+      "word": "long-standing",
+      "meaning": "오랫동안 지속되어 온, 다년간의"
+    },
+    {
+      "word": "spare no expense",
+      "meaning": "비용을 아끼지 않다"
+    },
+    {
+      "word": "sticker price",
+      "meaning": "표시 가격, 소비자 가격"
+    },
+    {
+      "word": "hold off",
+      "meaning": "연기하다, 지체시키다"
+    },
+    {
+      "word": "downside",
+      "meaning": "결점, 약점"
+    },
+    {
+      "word": "awkward",
+      "meaning": "불편한, 어색한, 적합하지 않은"
+    },
+    {
+      "word": "muffled",
+      "meaning": "(소리를) 낮춘 듯한, 불분명한"
+    },
+    {
+      "word": "decent",
+      "meaning": "만족스러운, 괜찮은"
+    },
+    {
+      "word": "addendum",
+      "meaning": "(계약 등의) 추가 조항"
+    },
+    {
+      "word": "status report",
+      "meaning": "현황 보고(서)"
+    },
+    {
+      "word": "sign off on",
+      "meaning": "(서명을 하여) ~을 승인하다"
+    },
+    {
+      "word": "draw up",
+      "meaning": "(문서를) 작성하다"
+    },
+    {
+      "word": "to the best of",
+      "meaning": "~하는 한, ~이 미치는 한"
+    },
+    {
+      "word": "labor cost",
+      "meaning": "인건비"
+    },
+    {
+      "word": "effective immediately",
+      "meaning": "즉시 효력이 발생하는"
+    },
+    {
+      "word": "incur",
+      "meaning": "초래하다, 자초하다"
+    },
+    {
+      "word": "under budget",
+      "meaning": "예산보다 적게 든"
+    },
+    {
+      "word": "leftover",
+      "meaning": "남은; 나머지"
+    },
+    {
+      "word": "interested party",
+      "meaning": "(계약이나 거래의) 이해관계자, 관심 있는 사람들"
+    },
+    {
+      "word": "put forth",
+      "meaning": "제시하다, 제안하다"
+    },
+    {
+      "word": "voice",
+      "meaning": "목소리를 높이다, ~을 말로 표현하다"
+    },
+    {
+      "word": "well-lit",
+      "meaning": "조명이 ㅂ락은"
+    },
+    {
+      "word": "spare",
+      "meaning": "(시간이나 돈을) 할애하다, 아끼다"
+    },
+    {
+      "word": "adolescent",
+      "meaning": "청소년"
+    },
+    {
+      "word": "applaud",
+      "meaning": "박수를 치다"
+    },
+    {
+      "word": "cast a vote",
+      "meaning": "투표하다"
+    },
+    {
+      "word": "overnight shipping",
+      "meaning": "익일 배송"
     }
   ]
 }
